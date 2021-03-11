@@ -27,3 +27,5 @@ let obj = {
 	}
 }
 console.log(obj.sum([1,2,3]));
+console.log(obj.sumPow([1,2,3]));
+console.log(obj.sumCube([1,2,3]));
