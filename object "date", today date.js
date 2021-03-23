@@ -1,4 +1,4 @@
-
+/* Display today date in further format: YYYY-MM-DD */
 
 let date = new Date();
 
